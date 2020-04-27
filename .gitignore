@@ -1,0 +1,7 @@
+.idea/
+.env.php
+docs/
+wp-admin/
+wp-includes/
+wp-content/uploads/
+
